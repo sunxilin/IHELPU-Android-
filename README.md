@@ -1,5 +1,5 @@
 # 我帮你APP（Android）
-#### [iOS端源码点此处](https://github.com/sunxilin/IHELPU-IOS-)
+#### [iOS端展示点此处](https://github.com/sunxilin/IHELPU-IOS-)
  “我帮你”APP是以私活实时交易为主体，以大学生为主要服务对象的互助式生活服务平台。 “我帮你”的两个主要功能：发布任务以及任务接收。用户可根据自身需求或自身技能选择发布或接收任务。任务发布者根据任务难易度自行制定报酬，若评估价格合适，接受者即可接受任务。任务完成后即可获取报酬。下面展示其部分功能。
  
  功能 | 说明 | 展示
@@ -13,3 +13,5 @@
  举报 | 对含有不良信息的订单或不良行为的接单\发单方投诉举报的功能，客服通过管理员系统对其审核处理 | ![](https://github.com/sunxilin/IHELPU-Android-/blob/master/%E4%B8%BE%E6%8A%A5.gif)
  修改个人信息 | 人性化的功能 | ![](https://github.com/sunxilin/IHELPU-Android-/blob/master/%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.gif)
  系统公告 | 便于管理员发送通告 | ![](https://github.com/sunxilin/IHELPU-Android-/blob/master/%E7%B3%BB%E7%BB%9F%E5%85%AC%E5%91%8A.gif)
+
+了解更多请联系QQ  **656998813**
